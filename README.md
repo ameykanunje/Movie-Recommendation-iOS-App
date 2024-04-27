@@ -50,4 +50,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact the project maintainer at [your-email@example.com](mailto:ameykanunje@gmail.com).
+For any inquiries or feedback, feel free to contact the project maintainer at [ameykanunje@gmail.com](mailto:ameykanunje@gmail.com).
