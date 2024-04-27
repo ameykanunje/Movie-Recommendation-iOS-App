@@ -1,4 +1,4 @@
-![MainScreen](https://github.com/ameykanunje/Movie-Recommendation-iOS-App/assets/115860258/7a95d913-c85b-4a3f-96ee-0336eabbc3a8)# Flick Reflector iOS SwiftUI
+# Flick Reflector iOS SwiftUI
 
 Flick Reflector is a sleek iOS app built with SwiftUI, following the MVVM architecture and adhering to industry-standard practices for data fetching, JSON decoding, and UI rendering. It provides users with a seamless experience to explore and discover movies, leveraging modern SwiftUI features and elegant design principles.
 
