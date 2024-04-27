@@ -26,9 +26,14 @@ To use Flick Reflector, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot2.png)
 
-![Screenshot 2](/path/to/screenshot2.png)
+<img src="Images/MainScreen.png" alt="HomeView" width="400" height="850"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="Images/GridView.png" alt="HomeView" width="400" height="850">
+
+<img src="Images/GenreGridView.png" alt="HomeView" width="400" height="850"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="Images/SearchBar.png" alt="HomeView" width="400" height="850">
+
+<img src="Images/DetailView.png" alt="HomeView" width="400" height="850"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="Images/DetailViewReviews.png" alt="HomeView" width="400" height="850">
+
+<img src="Images/RecommendedMovie.png" alt="HomeView" width="400" height="850">
 
 ## License
 
@@ -45,4 +50,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, feel free to contact the project maintainer at [your-email@example.com](mailto:ameykanunje@gmail.com).
